@@ -29,22 +29,22 @@ Imported and cleaned the dataset using Power Query. Fixed a data quality issue c
 ### Task 2 — Netflix Content Overview Dashboard
 KPI cards (Total Titles, Total Movies, Total TV Shows, Movie %, TV Show %), a donut chart for Movies vs TV Shows, a bar chart of top content categories, a column chart of titles by rating, and interactive slicers.
 
-![Task 2 - Content Overview Dashboard](screenshots/Task2.png)
+![Task 2 - Content Overview Dashboard](Task 2.png)
 
 ### Task 3 — Global Content Insights Dashboard
 A filled map showing content distribution by country, a matrix with country-wise Movies/TV Shows/Total breakdown, a bar chart ranking the top 10 countries by content volume, and interactive filters.
 
-![Task 3 - Global Content Insights Dashboard](screenshots/Task3.png)
+![Task 3 - Global Content Insights Dashboard](Task 3.png)
 
 ### Task 4 — Content Growth & Trend Analysis
 Line charts tracking content growth by release year (with trend line) and a Movies vs TV Shows trend comparison, a column chart of content added by year, and a YoY Growth % DAX measure.
 
-![Task 4 - Content Growth & Trend Analysis](screenshots/Task4.png)
+![Task 4 - Content Growth & Trend Analysis](Task 4.png)
 
 ### Task 5 — Audience & Content Category Intelligence
 A custom `audience_segment` column (Kids / Family / Teens / Adults) derived from content rating, DAX measures for segment-wise content counts and % mature content, a donut chart of audience segmentation, and a category-vs-audience-segment matrix.
 
-![Task 5 - Audience & Content Category Intelligence](screenshots/Task5.png)
+![Task 5 - Audience & Content Category Intelligence](Task 5.png)
 
 ## 🎨 Design
 
